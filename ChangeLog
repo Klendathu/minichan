@@ -1,0 +1,15 @@
+2013-03-30  Klendathu  <klendathu@hushmail.com>
+	* INITIAL COMMIT TO THIS ACCOUNT
+	* Haven't committed in a while, so probably missing stuff
+	* Added GtkSpell and Libnotify
+	* Now there are notifications when you post
+	* Spell checking
+	* Fixed bug where going to a different board after going to a 
+thread on another one would cause a crash
+	* Probably final commit to Gitorious
+	* TODO:
+		* Add code tag support
+		* Set up a more thorough implementation of the image hiding
+		* Add a NSFW mark on the board selection
+		* Add a filename tooltip to images
+		* Figure out why starting a new thread won't work

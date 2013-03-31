@@ -1,0 +1,10 @@
+[Desktop Entry]
+Encoding=UTF-8
+Version=@PACKAGE_VERSION@
+Type=Application
+Terminal=false
+StartupNotify=true
+Exec=@PACKAGE@
+Name=@PACKAGE_NAME@
+Icon=@PACKAGE@
+Categories=Network;GNOME;GTK;
