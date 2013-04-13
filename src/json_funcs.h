@@ -1,5 +1,7 @@
-#include <gtkmm.h>
+#include <json/json.h>
 #include <string.h>
+#include <iostream>
+#include <boost/regex.hpp>
 
 #ifndef MINICHAN_JSON_FUNCS
 #define MINICHAN_JSON_FUNCS
