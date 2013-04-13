@@ -1,12 +1,10 @@
-2013-03-30  Klendathu  <klendathu@hushmail.com>
-	* INITIAL COMMIT TO THIS ACCOUNT
-	* Haven't committed in a while, so probably missing stuff
-	* Added GtkSpell and Libnotify
-	* Now there are notifications when you post
-	* Spell checking
-	* Fixed bug where going to a different board after going to a 
-thread on another one would cause a crash
-	* Probably final commit to Gitorious
+2013-04-12  Klendathu  <klendathu@hushmail.com>
+	* Cleaned up code
+	* Split code up into headers
+	* Removed commented-out code
+	* Added comments to each function and class
+	* Added content to README
+	* Going to add a "releases" branch
 	* TODO:
 		* Add code tag support
 		* Set up a more thorough implementation of the image hiding
